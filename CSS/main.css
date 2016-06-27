@@ -4,4 +4,57 @@ body {
         font-family:  'Raleway','Tangerine', serif;
         font-size: 20px;
     background-color: aqua;
+    padding: 0px;
+
       }
+h1 {
+	color: blue;
+	font size: 24;
+}
+h2{
+	color: inherit;
+}
+p {
+	
+	padding: 5px;
+}
+.container {
+	width: 960px;
+	margin: auto;
+}
+.main-header {
+	height: 30px;
+	color: white;
+	background-color: royalblue;
+	margin-top: 5px;
+}
+ header a { 
+	list-style: none;
+}
+
+#main-content{
+	padding: 20px;
+	background-color: grey;
+}
+#main-content{
+	font-size: 16px;
+	line-height: 1.5;
+}
+.main-footer {
+	height: 100px
+	color: white;
+	background-color: black;
+}
+footer{
+	list-style: none;
+}
+footer{
+	list-style: none;
+}
+
+.base {
+	padding-top: 50px;
+	color: white;
+	text-align: center;
+	font-size: 24px;
+}
